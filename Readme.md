@@ -1,5 +1,6 @@
 # 🚀 Rayan El Habib // Helper - Verification Bot
 
+<div align="center">
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -7,6 +8,7 @@ A professional Discord moderation and verification bot built with discord.js v14
 
 [![Invite Bot](https://img.shields.io/badge/Invite-Bot-5865F2?style=for-the-badge&logo=discord)](https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&scope=bot%20applications.commands)
 [![Support Server](https://img.shields.io/badge/Support-Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/wyWGcKWssQ)
+</div>
 
 ## Features
 - Verification workflow (roles for verified/unverified users)
