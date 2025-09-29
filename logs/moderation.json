@@ -1,0 +1,8907 @@
+[
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "704131330157576303",
+      "tag": "zero_vonn"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-18T20:44:47.693Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1037409928324849794",
+      "tag": "nf.mohamed"
+    },
+    "by": {
+      "id": "471744410166755369",
+      "tag": "egmt_x03"
+    },
+    "reason": "toxic bzf",
+    "date": "2025-07-18T21:51:42.044Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1037409928324849794",
+      "tag": "nf.mohamed"
+    },
+    "by": {
+      "id": "471744410166755369",
+      "tag": "egmt_x03"
+    },
+    "date": "2025-07-18T22:41:05.253Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "walll",
+    "date": "2025-07-19T21:52:10.682Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-19T21:54:51.301Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-19T21:55:46.220Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-19T22:00:41.088Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spammmmmm",
+    "date": "2025-07-19T22:01:52.793Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-19T22:08:11.238Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "llmd",
+    "date": "2025-07-19T22:08:30.703Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-07-19T22:11:37.516Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-19T23:52:40.079Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1324030147871117324",
+      "tag": "coolman0.1"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "high role f 2m",
+    "date": "2025-07-20T16:37:02.867Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-20T18:16:54.448Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-07-20T18:17:25.183Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1238594159711883339",
+      "tag": "ghitababy"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "3sasa f2m",
+    "date": "2025-07-20T20:04:22.422Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1314400247736176640",
+      "tag": "jc.1_2"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-20T20:16:13.203Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1385800027015745580",
+      "tag": "nizar_80724"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "rolat f mbc 7et rolat omer7ba bik",
+    "date": "2025-07-20T21:15:58.189Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1310656690114400356",
+      "tag": "jneyaaaan"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "abdlmola_x"
+    },
+    "reason": "Toxique Bzaff",
+    "date": "2025-07-20T21:40:05.513Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1190423352624549929",
+      "tag": "mohaa_aaaa"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "hbt t9wed",
+    "date": "2025-07-20T23:48:23.236Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1247638328635953265",
+      "tag": "zacarias0004"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm haha",
+    "date": "2025-07-21T15:09:59.359Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1369699434694312079",
+      "tag": "l9irch0260"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-21T18:26:27.264Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "622160990838063140",
+      "tag": "thedollyxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-21T18:27:06.916Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1366079925886652558",
+      "tag": "marwane1949"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "high role fdak srvr",
+    "date": "2025-07-21T19:09:49.960Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "622160990838063140",
+      "tag": "thedollyxx"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-21T19:10:21.609Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "bghite",
+    "date": "2025-07-21T19:50:29.273Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1355356149452378122",
+      "tag": "yocci_nr."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Rolat fdak swerver",
+    "date": "2025-07-22T11:47:56.289Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1370513022522622092",
+      "tag": "imamotherfuckinidol"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "role fdak swirver",
+    "date": "2025-07-22T16:24:46.981Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1286314253917360334",
+      "tag": "nabil_0x"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "rolat fdak server",
+    "date": "2025-07-22T20:37:20.191Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1037409928324849794",
+      "tag": "nf.mohamed"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "ser t7wa nta wdwasa",
+    "date": "2025-07-22T21:19:33.999Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "w9",
+    "date": "2025-07-22T21:32:58.966Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1095046349025706146"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-22T21:34:46.806Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "kawtar91027"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T22:02:31.497Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "802517201382277150",
+      "tag": "dareemx8134"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T22:09:21.503Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1374084738687434956"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-22T22:14:33.860Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1365702277662376026",
+      "tag": "hb.07.59"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T22:17:58.456Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1311009091375857755",
+      "tag": "dinho_2008_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T22:22:52.167Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "kawtar91027"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T22:35:55.715Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1374084738687434956"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-07-22T23:23:18.963Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1334561903133065317",
+      "tag": "roofix_12"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "at3awd tjbed dwassa lchi driya atjaila",
+    "date": "2025-07-22T23:43:49.489Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1345102700387373068",
+      "tag": "marocchinaaa"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-22T23:44:45.603Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1381599473670553662",
+      "tag": "amineeee__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "rolat fdak swirver",
+    "date": "2025-07-23T12:24:38.350Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1345456795719569469",
+      "tag": "killer.60"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-23T19:38:23.524Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1325118724466020445",
+      "tag": "sheyna_0"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbti t9wdi ab9",
+    "date": "2025-07-24T17:07:59.237Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "kawtar91027"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "at3awdi tb9ay tclaime chi tap bach trejecte bnadm jail bghiti trejecte rejecte ftap dyalk",
+    "date": "2025-07-24T21:40:34.650Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1021071029776429127",
+      "tag": "toreno_1501"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-25T16:59:59.543Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "928973547471249480",
+      "tag": "slawiiiii"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-25T17:44:53.492Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1021071029776429127"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-07-25T18:05:05.245Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1388686179431616563",
+      "tag": "usser777."
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-25T19:12:46.852Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "802517201382277150"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-07-25T23:09:14.239Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "kawtar91027"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-25T23:12:37.839Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1184452908591362121",
+      "tag": "y39b_05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "rolat fdak swirver",
+    "date": "2025-07-26T00:55:00.400Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1184452908591362121",
+      "tag": "y39b_05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-07-26T01:15:14.997Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1334561903133065317",
+      "tag": "ego77889"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-26T13:40:47.741Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "999547285203595326",
+      "tag": "usee.r777"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-26T13:43:59.748Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "999547285203595326",
+      "tag": "usee.r777"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-26T13:47:45.871Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376488221457780778",
+      "tag": "xion723"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-27T04:13:53.372Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376488221457780778",
+      "tag": "xion723"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-07-27T04:15:57.011Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-27T04:27:44.530Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1028277390612377671",
+      "tag": "3q8o"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-27T20:34:15.098Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "848201518107590656",
+      "tag": "realsolohere"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-27T23:14:06.669Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1377796823741366344",
+      "tag": "ij._.ji"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-27T23:14:34.446Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "320974862115930114",
+      "tag": "za0c"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "n9es chwiya mn toxicité",
+    "date": "2025-07-28T00:17:08.107Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1237067218462965767",
+      "tag": "enzo.4xyz"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-28T00:28:02.640Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1308142108820902008",
+      "tag": "mohamed_lm9wd"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm ldak swirver",
+    "date": "2025-07-28T17:17:24.609Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1305151236965793835",
+      "tag": "amal_shery"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-28T17:18:42.025Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1060733598069686282",
+      "tag": "m_musashi97"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-28T17:19:35.501Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "887735504756441139",
+      "tag": "sl7.i"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "akher mra tstreami chi haja +18",
+    "date": "2025-07-28T17:27:40.666Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1037409928324849794",
+      "tag": "nf.mohamed"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-28T19:08:21.937Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1298290119110950963",
+      "tag": "fahedba"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm",
+    "date": "2025-07-28T20:11:23.487Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "950448456877604974",
+      "tag": "qu75"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "token haha",
+    "date": "2025-07-28T20:15:09.833Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-07-28T22:36:57.704Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "282771512598200320",
+      "tag": "omega."
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-28T23:00:07.068Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "821121919713411133",
+      "tag": "assi_77"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-29T00:07:18.807Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1305684575229448235",
+      "tag": "mm_47xf"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-29T00:32:11.628Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1162896275889459271",
+      "tag": "7508427303025"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "spam dm lnight lite",
+    "date": "2025-07-29T00:35:26.303Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1293138383555792917",
+      "tag": "thelysn"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-29T00:39:59.635Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "821121919713411133"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-07-29T01:34:34.454Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "821121919713411133",
+      "tag": "assi_77"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-29T02:05:33.333Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "995423392297656400",
+      "tag": "mcr.sami"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-29T17:39:54.529Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1187037477521870855",
+      "tag": "rolix27"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "rolat f 2m",
+    "date": "2025-07-29T22:54:28.152Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1349966396918075484",
+      "tag": "771_f"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "matb9ach toxica 3la bnadm bla walo next time jail",
+    "date": "2025-07-31T15:48:34.861Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1295249045996044298",
+      "tag": "deleteduseerr"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "at3awd toxica 3la chi 1 next time jail",
+    "date": "2025-07-31T16:10:28.135Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1330873408015171604",
+      "tag": "loo02950"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-07-31T21:08:53.973Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1195332809561231400",
+      "tag": "veroo_05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "khasek chi coach y3lmek kifach tspame otjib lmambers y3rgo 3ndkom fsrvr",
+    "date": "2025-08-01T19:07:24.522Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "853105264873570316",
+      "tag": "n4biil__"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "ghda ospami tani",
+    "date": "2025-08-02T01:51:20.804Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "970169852989952000",
+      "tag": "el.patron10"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbt t9wd",
+    "date": "2025-08-02T02:53:57.952Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "770393772634013696",
+      "tag": "samx0mn"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbt t7wa otsna de9a mnin atjiw aw9",
+    "date": "2025-08-02T03:03:03.181Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "770393772634013696",
+      "tag": "samx0mn"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-02T03:08:50.958Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "970169852989952000",
+      "tag": "el.patron10"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-02T03:14:56.123Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1252181518412156991",
+      "tag": "2h2v"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet t9wed aw9 haha",
+    "date": "2025-08-02T03:44:04.383Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "853105264873570316",
+      "tag": "n4biil__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "mkbout dzeeb hbet tqwed aw9",
+    "date": "2025-08-02T04:24:41.139Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "831547937725087764",
+      "tag": "404.h"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-02T05:13:43.803Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "692366246821232710",
+      "tag": "jklecter"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-02T17:46:29.843Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376957739875565641",
+      "tag": "happyioo"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "katspmi wa sir l3anhom",
+    "date": "2025-08-02T21:01:48.039Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1380658951087063130",
+      "tag": "romy5012"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "token",
+    "date": "2025-08-02T21:43:36.087Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1376957739875565641",
+      "tag": "happyioo"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "hbet t7wa",
+    "date": "2025-08-02T21:51:02.311Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "next time jail jme3 krek chwi",
+    "date": "2025-08-03T00:44:31.354Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1297318322102341692",
+      "tag": "use_vren"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-03T03:36:48.432Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1353268610306539571",
+      "tag": "doctormax88"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "ser spami jiha khra alhaqir",
+    "date": "2025-08-03T13:20:41.397Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1273300381274738709",
+      "tag": "stop.talking.with.milfeslover"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam voice ser b3d mna alha9ir",
+    "date": "2025-08-03T20:21:29.022Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "808023536903782400",
+      "tag": "itachi9294"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "drna fik kher bach diha fserver dyalk chwya itl3 f vc alhaqir",
+    "date": "2025-08-03T23:04:25.352Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1351245694459187336",
+      "tag": "qse0"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-04T01:07:48.126Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "892092978200445029",
+      "tag": "no_exe117"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-04T14:01:42.043Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "705570449777491970",
+      "tag": "madara_simox"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam ser tl3b lhih fserver da3ara dyalkom awlad qhab",
+    "date": "2025-08-04T15:35:55.391Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1400195683889320106",
+      "tag": "meeee77d."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "token",
+    "date": "2025-08-04T19:05:31.735Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "909375359856824331",
+      "tag": "e_vyoub3"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet aw9 wakha tb9a tspame talghda l9lawi latle3 dak srvr",
+    "date": "2025-08-04T23:40:52.945Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1402080900576972842",
+      "tag": "isagi_150262"
+    },
+    "by": {
+      "id": "1190428416948846722",
+      "tag": "003_fal"
+    },
+    "reason": "token ou mbrch istrimi",
+    "date": "2025-08-05T01:17:15.422Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1010490015647801426",
+      "tag": "saturuxxxxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet al9wiwid hhh rak dayr khdmtek",
+    "date": "2025-08-05T13:48:09.357Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "773649740344328233",
+      "tag": "ss.xx9"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet t7wa rak dayr khdmtek sam radi 3lik",
+    "date": "2025-08-05T13:49:00.348Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1396890051706880225",
+      "tag": "fati7a_akhty17"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "token haifaz",
+    "date": "2025-08-05T13:55:02.009Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1012031209393631263",
+      "tag": "carter0m"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-05T18:22:01.308Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1019663952730398774",
+      "tag": "psikolm9wd"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "ylh hbet dreb liya chi mssisa",
+    "date": "2025-08-05T18:47:35.892Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "walo",
+    "date": "2025-08-05T19:27:22.515Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-05T19:27:55.182Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1012031209393631263",
+      "tag": "carter0m"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "spam mini serveur",
+    "date": "2025-08-05T19:32:51.010Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "spamani ana",
+    "date": "2025-08-05T19:34:59.799Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-05T19:35:45.928Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "764469963682480159",
+      "tag": "eclipsea_."
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "rolat f pnl",
+    "date": "2025-08-05T20:29:56.497Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1019663952730398774",
+      "tag": "psikolm9wd"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-08-05T20:37:25.923Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-05T21:48:29.373Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1291746831386284086",
+      "tag": "0g_oat"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-05T23:24:43.909Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1063460518276374608",
+      "tag": "goat_r7"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "mat3awdch tfker tji lhna hbt",
+    "date": "2025-08-06T00:38:37.912Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1243897753914839068",
+      "tag": "kvrcmxpfh577992"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "token ilakantich toekn contact our high role server",
+    "date": "2025-08-06T15:04:12.114Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1298416516815126611",
+      "tag": "laila_ld"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "role pnl",
+    "date": "2025-08-06T15:48:23.256Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "999547285203595326",
+      "tag": "usee.r777"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-06T20:08:15.611Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1003671276197523516",
+      "tag": "zouhair_blf5645"
+    },
+    "by": {
+      "id": "1190428416948846722",
+      "tag": "003_fal"
+    },
+    "reason": "mtb9ach dkhel tkhrj mn rom",
+    "date": "2025-08-06T21:43:12.291Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "999547285203595326"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-08-06T21:58:17.756Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1310656690114400356",
+      "tag": "jneyaaaan"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "ma tgb9ach toxica 3la memebre diyal server",
+    "date": "2025-08-07T14:59:25.710Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1395460962055880767",
+      "tag": "nassim__xn"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T16:04:32.086Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1395460962055880767",
+      "tag": "nassim__xn"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-07T16:09:57.979Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "821121919713411133"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "date": "2025-08-07T18:05:38.381Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "999547285203595326",
+      "tag": "usee.r777"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "date": "2025-08-07T19:17:01.947Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1387529679245807701",
+      "tag": "neivylosthermind"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "spam srv siro spamiw lihih dak srv 9bl ma nhbto likom",
+    "date": "2025-08-07T19:22:19.715Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "835556043446157362",
+      "tag": ".7oussam."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T22:53:22.785Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1351965083881832540",
+      "tag": "m_oreeno."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T22:53:58.274Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1238217135378006067",
+      "tag": "mohamedby_"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T22:55:52.087Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1238217135378006067"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "date": "2025-08-07T22:56:23.278Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1341792390620516415",
+      "tag": "levraishikha"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T22:57:30.184Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1012031209393631263",
+      "tag": "carter0m"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-07T23:32:29.634Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1264616116563742867",
+      "tag": "wald_.y"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "ser spami b3ed awldii qlawi latl3likom dak server",
+    "date": "2025-08-08T00:27:41.239Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "إنتحاب شخصية مواطنة صالحة",
+    "date": "2025-08-08T15:45:20.024Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-08T15:52:53.886Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "date": "2025-08-08T15:53:15.967Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "akher mera disrespecte wahd high role 3lik 9dam members 7tarmi rask o7tarmihom kima kaytarmok last chance anchuf mnk chi haja remove role perma",
+    "date": "2025-08-08T16:31:38.828Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "dsara",
+    "date": "2025-08-08T16:57:40.488Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "jm3 krk akhir indar",
+    "date": "2025-08-08T18:17:45.728Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "an3tik akhir warn ana gthalik akhir warn atjini reporte whda 3lik man39lch 3lik raki m3ana f team role z3ma khaski dwe m3a members mzn otn9se mn abuse ?? Ana dwet db deri lbghiti nti",
+    "date": "2025-08-08T20:29:19.792Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "766383940726030367",
+      "tag": "msiimna"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "rolat cozy corner",
+    "date": "2025-08-08T21:13:22.159Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1403449912514842785",
+      "tag": "ween_wr"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "avatar machi dyalk dyal wahd khur",
+    "date": "2025-08-08T22:40:27.976Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1403449912514842785",
+      "tag": "ween_wr"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-08T22:41:10.712Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1158515063552999616",
+      "tag": "i_nk"
+    },
+    "by": {
+      "id": "1114348396082372728",
+      "tag": "system.exe_sys"
+    },
+    "reason": "role midnight",
+    "date": "2025-08-09T00:33:08.656Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "reason": "toxique fl vc 3la ga3 les membre ktr mn 10 lmrat",
+    "date": "2025-08-09T01:31:41.764Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "348855171205431306",
+      "tag": "makima98"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam server chill out",
+    "date": "2025-08-09T02:37:39.780Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1314925424161329307",
+      "tag": "686433009877"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T12:39:10.971Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T12:46:45.152Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "date": "2025-08-09T12:47:36.847Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "pub ldak swerver lima3ndek fih ta qlwa",
+    "date": "2025-08-09T12:48:11.980Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1060306601610858586",
+      "tag": "xapiz6"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "b9a tsli l lah machi lsala7",
+    "date": "2025-08-09T12:49:49.977Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-09T14:28:55.780Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "842945596821995591",
+      "tag": "rochdii."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Spam vc server",
+    "date": "2025-08-09T16:52:42.555Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1140241392329838623",
+      "tag": "fr3on0152"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam",
+    "date": "2025-08-09T17:04:47.527Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "259371722317234179",
+      "tag": "iblis7biba"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role another server",
+    "date": "2025-08-09T19:19:16.589Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "259371722317234179",
+      "tag": "iblis7biba"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "date": "2025-08-09T19:30:22.869Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "259371722317234179",
+      "tag": "iblis7biba"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "sorry bro ghalat mr7ba bik m3ana fserver chill m3a rask",
+    "date": "2025-08-09T19:31:07.322Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1263569195916857459",
+      "tag": "brolyy_urm"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "rolat f 11pm",
+    "date": "2025-08-09T19:45:08.483Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1065754095891251361",
+      "tag": "ss5_55"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "spam mini server one daya 3ye9to",
+    "date": "2025-08-09T20:17:57.082Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1106679370921287720",
+      "tag": "tibari5935"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "one day",
+    "date": "2025-08-09T21:57:07.567Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1373755427027685518",
+      "tag": "ay3la060"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T21:59:03.128Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1153807437892157551",
+      "tag": "floxx_m1"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T21:59:31.313Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T22:04:18.428Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1090996090351915088",
+      "tag": "_callmealexa"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T22:18:11.822Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1337424233982066688",
+      "tag": "adam028552"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-09T22:18:48.127Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "940637814607999046",
+      "tag": "anass72727"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "staf good night",
+    "date": "2025-08-10T02:31:35.987Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1200147537206722564",
+      "tag": "delete.useerrrrrrrrr"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "3ndek tji b7al lkelb lblast ljail",
+    "date": "2025-08-10T02:48:14.737Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1312206286577729720",
+      "tag": "_abouri_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-10T02:49:14.028Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1056347485855027261",
+      "tag": "3a_z_i_59"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbt t7wa",
+    "date": "2025-08-10T02:49:37.210Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "708773417859416064",
+      "tag": "_05s_"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role fserver one day",
+    "date": "2025-08-10T19:24:08.412Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "708773417859416064",
+      "tag": "_05s_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-10T20:03:08.479Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1314932389264490509",
+      "tag": "drove13"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "soam server after work",
+    "date": "2025-08-10T22:57:06.388Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1244696170253516832",
+      "tag": "lexta4life"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam servr",
+    "date": "2025-08-10T23:01:52.764Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1354153511134298273",
+      "tag": "olyiev"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-11T01:07:05.182Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1002948812517691402",
+      "tag": "mamini777"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-11T01:07:49.894Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "947658460810588262",
+      "tag": "_ptipana_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-11T01:24:03.488Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1193729079673896963",
+      "tag": "a.ayten"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-11T02:17:40.469Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1079067407563358338",
+      "tag": "wiiiitcher"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "matb9ach trooli f verification otkhsar hadra next time hdra okhra",
+    "date": "2025-08-11T15:24:34.264Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "335869842748080140",
+      "tag": "wlh_hta_kifo"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "rta7 lik chwi mea krek",
+    "date": "2025-08-11T17:49:01.003Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "708773417859416064",
+      "tag": "_05s_"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam vc",
+    "date": "2025-08-11T18:45:58.897Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "335869842748080140",
+      "tag": "wlh_hta_kifo"
+    },
+    "by": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "date": "2025-08-11T19:10:09.643Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1242807422456696862",
+      "tag": "303.m"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-11T19:37:37.232Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "984463788071858247",
+      "tag": "tambrs"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-11T19:38:00.561Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1092247029792641037",
+      "tag": "ivvvas"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-11T19:38:22.123Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1216026048324440095",
+      "tag": "kvwvkvmi"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-11T21:16:46.875Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1216026048324440095",
+      "tag": "kvwvkvmi"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-11T21:22:37.598Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1310656690114400356",
+      "tag": "jneyaaaan"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "bro n9es mn toxic chwya osban der 39lek",
+    "date": "2025-08-12T01:58:38.786Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "warn",
+    "user": {
+      "id": "1310656690114400356",
+      "tag": "jneyaaaan"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "akhir mara tzbl fl members",
+    "date": "2025-08-12T10:13:10.147Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1394670560448876644",
+      "tag": "salo.ma_70283"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Khti matb9ach tspami ftsawar dyal l9mar f chats bhal report o chats li fihol dakchi seriously and thanks",
+    "date": "2025-08-12T11:39:34.654Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1394670560448876644",
+      "tag": "salo.ma_70283"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-12T12:14:11.041Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1120318724830920716",
+      "tag": "iizz.x"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "role one day",
+    "date": "2025-08-12T13:14:53.089Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1242189447152537631",
+      "tag": "elhaame"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam mini server",
+    "date": "2025-08-12T14:38:11.423Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "884834645315846194",
+      "tag": "xy_z6"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "role one day",
+    "date": "2025-08-12T15:13:33.789Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "885826632005333042",
+      "tag": "silenti_20.06"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "role one day",
+    "date": "2025-08-12T15:14:46.253Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1179885819780137041",
+      "tag": "_nounou1_"
+    },
+    "by": {
+      "id": "1380522469173100554",
+      "tag": "amjad_emjd._43302"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-13T13:20:43.076Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1401532615227342970",
+      "tag": "smiiix7"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "spam",
+    "date": "2025-08-13T16:47:31.193Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "699931478951198730",
+      "tag": "torino.mz"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam mini server",
+    "date": "2025-08-13T19:16:48.203Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1379495095388082258",
+      "tag": "yummito_ettt"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "no more abuse",
+    "date": "2025-08-13T21:22:33.709Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1028277390612377671",
+      "tag": "3q8o"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "date": "2025-08-14T03:25:37.972Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1395460962055880767",
+      "tag": "nassim__xn"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-14T18:33:06.423Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1325585783863771147"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "date": "2025-08-15T01:37:53.531Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "803974760211021856",
+      "tag": "x.90r"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-15T03:41:39.841Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "timeout",
+    "user": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "duration": 1,
+    "date": "2025-08-15T13:49:27.263Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1133469127474937958",
+      "tag": "elbingo__"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role cozy corner",
+    "date": "2025-08-15T14:14:29.633Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1123585998681554984",
+      "tag": "adamsomo"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role MBCC",
+    "date": "2025-08-15T15:37:07.053Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "586702366733238272",
+      "tag": "ing__7"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role sw dreams",
+    "date": "2025-08-16T01:41:46.293Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1079897968532004945",
+      "tag": "0x64_."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role sw dreams",
+    "date": "2025-08-16T04:53:42.478Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "220638909913104384",
+      "tag": "7_cf"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role sw dreams",
+    "date": "2025-08-16T05:45:49.622Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "632593181367861258",
+      "tag": "orbsapprentice"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role sw dreams",
+    "date": "2025-08-16T06:03:26.024Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1324550502909874186",
+      "tag": "vectore_x"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "role sw dreams",
+    "date": "2025-08-16T06:03:59.039Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "697914064499638424",
+      "tag": ".mega99"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-16T14:31:06.181Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1259282425041915944",
+      "tag": "only__me_777"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Rolat fdak swirver",
+    "date": "2025-08-16T18:17:23.030Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1367822644615053402",
+      "tag": "y_____a"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-17T02:51:56.646Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1400943490782724176",
+      "tag": "mira_ghy007"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "kemli ta9waditeli katdiri fiha spaam raki 3rfa",
+    "date": "2025-08-17T12:33:58.278Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1307858317934202890",
+      "tag": "aron_.goat"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "sir t9wd ya zaml",
+    "date": "2025-08-17T13:45:34.962Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1116740320575623179",
+      "tag": "ismailghazi."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Spam Srv + kayhacki bnadam",
+    "date": "2025-08-17T15:09:35.652Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1116740320575623179",
+      "tag": "ismailghazi."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "date": "2025-08-17T19:32:10.073Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "940637814607999046",
+      "tag": "anass72727"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-17T19:42:52.382Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1386145199717355815",
+      "tag": "carolla_wiwiwi"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-18T22:46:10.059Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1385719663182352564",
+      "tag": "faruuuuuuu7a"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-19T22:54:24.679Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1120171728006565898",
+      "tag": "shahrazad._"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "3amlnak ktr mn bzf flkhr dwkhuk bjoj klimat abla mtrj3e",
+    "date": "2025-08-19T23:29:44.177Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1400188122104463500",
+      "tag": "ittachi0893"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "sir t9wad nta w 11pm dyalkom",
+    "date": "2025-08-19T23:41:23.239Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1398621440974127186",
+      "tag": "duurim_01"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "role one day",
+    "date": "2025-08-20T00:15:05.095Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1344835617644740640",
+      "tag": "sugarcherryyy"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-20T02:34:24.496Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "434074349088014348",
+      "tag": "mynemisjeff."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam",
+    "date": "2025-08-20T22:30:27.527Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1401984589185941634",
+      "tag": "crose0779"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "spam",
+    "date": "2025-08-21T19:52:26.799Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1401265590940729505",
+      "tag": "aimrane_06"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam",
+    "date": "2025-08-21T20:47:37.575Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam",
+    "date": "2025-08-21T21:54:03.669Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1311048229332455516",
+      "tag": "baggy.the.nightmare.smith"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "spam",
+    "date": "2025-08-21T22:02:36.964Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1167424881906941982",
+      "tag": "evaaaa0a"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-21T23:58:51.292Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1397254716496416798",
+      "tag": "icelos_11"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T00:20:07.850Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "902258786046185522",
+      "tag": "thequeen_69"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "hbti tqawdi",
+    "date": "2025-08-22T13:59:01.804Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1053426884446277643",
+      "tag": "doudous."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "spam",
+    "date": "2025-08-22T14:08:26.471Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "840890844159803402",
+      "tag": "boucltee"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Spam",
+    "date": "2025-08-22T14:19:02.443Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "840890844159803402",
+      "tag": "boucltee"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T14:21:59.282Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "780859761054187562",
+      "tag": "mohamed7332"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T14:27:49.679Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1267446300136439892",
+      "tag": "seyaaa_0"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T14:33:36.229Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "667860707064414231",
+      "tag": "mouneim.mouu"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T14:36:52.464Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "909375359856824331",
+      "tag": "e_vyoub3"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role at night",
+    "date": "2025-08-22T14:51:52.866Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1390040944195403971",
+      "tag": "sakamoto_085"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Spam",
+    "date": "2025-08-22T14:59:39.928Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1376635234896056404",
+      "tag": "n8xs"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role at night",
+    "date": "2025-08-22T16:51:03.938Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1326948089898074125",
+      "tag": "kilobrain"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role at night",
+    "date": "2025-08-22T16:52:36.670Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "183104914522767360",
+      "tag": "s_ylex"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:05:41.496Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "864278157682409472",
+      "tag": "vagos_pour_vida"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:06:58.852Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1094506237833515080",
+      "tag": "ra_venaa__"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:25:08.467Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "813337041583734814",
+      "tag": "__cybrwitch__"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:37:59.742Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "445942295385079829",
+      "tag": "_1der"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:43:34.484Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1183011570889011210",
+      "tag": "user19_."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T17:58:23.732Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "696410908922085407",
+      "tag": "fissure777"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-22T20:32:07.969Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1381599473670553662",
+      "tag": "amineeee__"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "spam dream night",
+    "date": "2025-08-22T22:53:54.352Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1401984589185941634",
+      "tag": "crose0779"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "spam trapstar",
+    "date": "2025-08-22T23:02:33.080Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1392678077959634945",
+      "tag": "sh0wm4n."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T05:55:40.466Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1361324251893862592",
+      "tag": "lmhaybv2"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T06:15:03.607Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "849430458131677195",
+      "tag": "im_franco"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T12:01:09.838Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1399078375007719474",
+      "tag": "viagra6"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T12:08:05.566Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1394670560448876644"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-23T12:08:54.596Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "ma tb9ay tcalijer tap bnadem ma kat3rfich o claim ou trejecti",
+    "date": "2025-08-23T12:31:51.624Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1349868545848250452",
+      "tag": "evinoxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T13:05:59.493Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1349868545848250452",
+      "tag": "evinoxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T13:13:10.462Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "264785511187611648",
+      "tag": "zm06"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T14:38:46.135Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1399847243003203645",
+      "tag": "its__lhaja"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role fdak Swirver",
+    "date": "2025-08-23T17:55:05.093Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "925099952298950687",
+      "tag": "nancyy_01"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role fdak Swirver",
+    "date": "2025-08-23T17:56:35.964Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1170830338805731411",
+      "tag": "steik_777"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:32:56.457Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1249156646597431417",
+      "tag": "svibe001__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:33:21.680Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1170830338805731411",
+      "tag": "steik_777"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:33:28.646Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1156196322190311556",
+      "tag": "merjana_77"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "role 2m",
+    "date": "2025-08-23T18:33:50.414Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1211443008570921021",
+      "tag": "h0_w"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:34:42.193Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1344156875658367077",
+      "tag": "x69.ma"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:49:07.513Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "769138291471286303",
+      "tag": "theeemanwhocantsuicide"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:49:31.433Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1379181972613763205",
+      "tag": "apilatopabiloabayto"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:51:23.235Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "601796066634891284",
+      "tag": "hxunteedluv"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:51:34.878Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1244696170253516832",
+      "tag": "lexta4life"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T18:51:48.703Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "847941233854906428",
+      "tag": "eulgisme"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "ma tbach tseb bndem f tap 7choma",
+    "date": "2025-08-23T21:35:11.334Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1389238033735356437",
+      "tag": "lhashmiya_66831"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-23T22:34:33.441Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1094769522575155220",
+      "tag": "mahdielmachmachi"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T22:35:18.142Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1401265590940729505",
+      "tag": "aimrane_06"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T22:36:35.435Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1092787005970194523",
+      "tag": "0.xbb"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevvkyyx7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T23:27:09.651Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1402395829515325682",
+      "tag": "_snow_3"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T23:50:24.104Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1404901128260419636",
+      "tag": "a1_.xs__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-23T23:51:07.412Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1324030147871117324",
+      "tag": "coolman0.1"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "bzzaf dyl spam",
+    "date": "2025-08-24T10:15:29.777Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1378903115579003000",
+      "tag": "bl4rsoxkng_44198"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T10:55:13.039Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "timeout",
+    "user": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "duration": 1,
+    "date": "2025-08-24T12:28:07.229Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "783265184541310997",
+      "tag": "senshii_ku"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T14:59:35.596Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1240679038586978304",
+      "tag": "liymochi_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T15:00:45.370Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1367605828063989861",
+      "tag": "ahlaml3aziya"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T16:12:27.242Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "803266646101852180",
+      "tag": "bommboclaat"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T21:30:35.489Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "930576964283158589",
+      "tag": "anamachiwinstonscottwlh"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T21:31:01.809Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "813337041583734814",
+      "tag": "__cybrwitch__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T21:31:26.904Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1223730302996840448",
+      "tag": "wassimox0"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T21:37:12.039Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "916604000785301574",
+      "tag": "0l_x"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T23:15:17.530Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "828045752717934603",
+      "tag": "uhp42"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T23:19:15.195Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1100855341631164447",
+      "tag": "mohamed103415"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T23:20:26.588Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1329182835118047341",
+      "tag": ".0xzoro."
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T23:25:18.101Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1400219661441826976",
+      "tag": "672npt"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-24T23:32:23.053Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "828045752717934603",
+      "tag": "uhp42"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "Cozy corner",
+    "date": "2025-08-24T23:46:26.384Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1223730302996840448",
+      "tag": "wassimox0"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "date": "2025-08-25T07:25:28.114Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1312908263221887059",
+      "tag": "vladimir0poutine"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T07:27:21.815Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1287564700015657073",
+      "tag": "sknfro"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Spam",
+    "date": "2025-08-25T11:14:40.464Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1380538220466671636",
+      "tag": "coco_js_21"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T14:20:45.138Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1324859130313183292",
+      "tag": "zanobabb"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T16:31:59.730Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1324859130313183292",
+      "tag": "zanobabb"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-25T17:02:39.271Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1271249737772830794",
+      "tag": "69x771"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T17:19:30.573Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1324028585446735972",
+      "tag": "zmr9loo"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T17:25:41.403Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1345397948405514261",
+      "tag": "amvvvine__38"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T17:50:42.028Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1398703449281007758",
+      "tag": "ekghvmsosweet."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T17:52:47.202Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1131360700036546713",
+      "tag": "vcxy1p"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role fdak swirver",
+    "date": "2025-08-25T18:02:14.415Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1122249575403630682",
+      "tag": "immvd_"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "owner fdak swirver",
+    "date": "2025-08-25T18:08:39.463Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1226279773534425169",
+      "tag": "mar.wan__"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role fdak swirver",
+    "date": "2025-08-25T18:10:41.382Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1349830107287519234",
+      "tag": "yyahhgg"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Role fdak swirver",
+    "date": "2025-08-25T18:12:34.666Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1154724861084713020",
+      "tag": "only__taha"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Verificator fdak swirver",
+    "date": "2025-08-25T18:14:39.066Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1175822925761368149",
+      "tag": "sidi_evann"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Founder fdak swirver",
+    "date": "2025-08-25T18:16:25.401Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1271249737772830794",
+      "tag": "69x771"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "ghost fdak swirver",
+    "date": "2025-08-25T18:20:24.561Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1196039922809843814",
+      "tag": "haasany"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T19:14:55.790Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1196039922809843814",
+      "tag": "haasany"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-25T19:25:12.749Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1092787005970194523"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-25T20:19:05.513Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1347408048142159963",
+      "tag": "rajaanosta"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T20:22:09.110Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1378903115579003000",
+      "tag": "bl4rsoxkng_44198"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-25T21:53:53.757Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1402708100552855636",
+      "tag": "dousiya_or"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-25T22:55:08.335Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1404901128260419636"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-25T22:58:05.377Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1311063910228693012",
+      "tag": "kastor999"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-26T13:47:24.092Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1284779944723091497",
+      "tag": "_nix111"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "nix b3ed mn dryat lim3ak f team dwe m3ahom f 7tiram obla dik 7echyan hedra ja 3lik report donc 3amlhom bhal khwatatek obla matn9es mnhom",
+    "date": "2025-08-26T14:02:51.799Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "955556734540349470",
+      "tag": "vitamiine"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "staff f night light",
+    "date": "2025-08-26T14:10:26.990Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "331086125148143626",
+      "tag": "bindou"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "staff night light",
+    "date": "2025-08-26T14:15:06.686Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1324168206306250913",
+      "tag": "oliveeeewest_57266"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-26T14:19:18.527Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "331086125148143626",
+      "tag": "bindou"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-26T17:29:13.176Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1131360700036546713",
+      "tag": "vcxy1p"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-26T17:33:16.064Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "821441627817771058",
+      "tag": "musashi_ab"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-26T18:07:07.360Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "rah b9i fik blan diyal tclaimi tap lbnem ou katreti ji jat tchakate driya 7ydi hed tbarhich",
+    "date": "2025-08-26T20:13:18.258Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "warn",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "reason": "hwa jaw tchakaw mnk 3awed",
+    "date": "2025-08-26T20:13:45.214Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1409905832266698873",
+      "tag": "ayman36."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "hbt n3l tbonmk",
+    "date": "2025-08-26T20:21:04.642Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "847941233854906428",
+      "tag": "eulgisme"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm ldak swirver limat org hahaha",
+    "date": "2025-08-26T21:39:49.763Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1398816759338897490",
+      "tag": "mouad03611"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm sraq zit",
+    "date": "2025-08-26T21:41:28.982Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1395023091142361101",
+      "tag": "abderrahmanenaciri"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-26T21:42:03.738Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1020042461143379970",
+      "tag": "mary_anna1"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "sraq zit",
+    "date": "2025-08-26T21:43:26.333Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1366651120373600296",
+      "tag": "skz_rayan23__"
+    },
+    "date": "2025-08-26T21:43:39.895Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1216026048324440095",
+      "tag": "kvwvkvmi"
+    },
+    "by": {
+      "id": "1376209221871337473",
+      "tag": "skz_rayan23."
+    },
+    "date": "2025-08-26T21:51:45.498Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1410018849746718883",
+      "tag": "abderrahmane07231"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "token",
+    "date": "2025-08-26T22:23:12.442Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1395023091142361101",
+      "tag": "abderrahmanenaciri"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-26T22:24:46.150Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "586702366733238272",
+      "tag": "ing__7"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "date": "2025-08-27T00:43:10.068Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "487401610209656832",
+      "tag": "iori_w_safi"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T02:35:36.803Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "ta tkoni bnt nas aji mr7ba bik",
+    "date": "2025-08-27T12:10:38.736Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1271249737772830794",
+      "tag": "69x771"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T12:31:52.196Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1349830107287519234",
+      "tag": "yyahhgg"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T12:32:07.486Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "259371722317234179",
+      "tag": "iblis7biba"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T13:48:20.157Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1309684267059773454",
+      "tag": "tchiko24"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T13:50:14.404Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1098786358404841512",
+      "tag": "dexteer2677"
+    },
+    "by": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T13:51:51.940Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-08-27T13:54:22.003Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "340189173539405828",
+      "tag": "eddylostteddy"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T14:01:24.263Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T17:49:05.551Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1405376475959529593",
+      "tag": "ak47darknight"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "dream night",
+    "date": "2025-08-27T17:59:14.595Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-08-27T19:45:01.903Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "574980669881581579",
+      "tag": "a7777_wnchadk"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T20:38:33.798Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1202975086878003203",
+      "tag": "zbol9lwa"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "ser t7wa",
+    "date": "2025-08-27T21:23:50.607Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "773713084740141090",
+      "tag": "nicolayx81"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-27T21:59:01.795Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "864278157682409472",
+      "tag": "vagos_pour_vida"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-28T16:17:16.573Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1402708100552855636",
+      "tag": "dousiya_or"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-08-28T21:08:58.337Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1400219661441826976",
+      "tag": "672npt"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-08-28T21:20:56.784Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1410692375763877960",
+      "tag": "3disaa."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "suspect tokek",
+    "date": "2025-08-28T22:26:41.954Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1410692375763877960",
+      "tag": "3disaa."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-08-28T22:31:56.314Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1410692375763877960",
+      "tag": "3disaa."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Chof asat mni tji verification jib m3ak screen srv smito late night o jib id dyal cont dyalak l9dim",
+    "date": "2025-08-28T22:33:47.955Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1314925424161329307",
+      "tag": "userdepressed"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T10:20:43.070Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1399731759415038072",
+      "tag": "malaaa_k"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:13:12.907Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1283525095171690599",
+      "tag": "q_9e_"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:14:50.620Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1354087078438109295",
+      "tag": "amineeee.49"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet t9wed",
+    "date": "2025-08-29T20:15:09.507Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1399731759415038072",
+      "tag": "malaaa_k"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:16:07.593Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1353823720912715887",
+      "tag": "gc0t"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:19:07.171Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1410683567117434911",
+      "tag": "anwar040944"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "token",
+    "date": "2025-08-29T20:21:37.504Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1354087078438109295",
+      "tag": "amineeee.49"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:22:50.726Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1410683567117434911",
+      "tag": "anwar040944"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "date": "2025-08-29T20:31:25.046Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1007061730943320064",
+      "tag": "flawrat"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-29T20:37:15.888Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1406143592514195547",
+      "tag": "akram066307"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Matb9ach toxiqa odir 3a9lak next time hadra okhra!!",
+    "date": "2025-08-29T22:07:33.658Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1390168497740316773"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "date": "2025-08-30T00:54:39.886Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "timeout",
+    "user": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "duration": 30,
+    "date": "2025-08-30T13:47:53.455Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "773713084740141090",
+      "tag": "nicolayx81"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-08-30T20:35:04.725Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "timeout",
+    "user": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "duration": 1,
+    "date": "2025-08-30T23:13:19.403Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1382145709482049708",
+      "tag": "m5_000"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-30T23:33:13.895Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "988218394203521064",
+      "tag": "1.exxp"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "skaknyyxox7"
+    },
+    "reason": "role trabstar",
+    "date": "2025-08-31T00:07:14.964Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1291531187889766531",
+      "tag": "amine_x12"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "katspame srvr alfar hh",
+    "date": "2025-08-31T01:16:34.910Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "827959047827357716",
+      "tag": ".depressedcanbeinvisible"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Role fdak swirver",
+    "date": "2025-08-31T13:23:53.730Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1386145199717355815",
+      "tag": "carolla_wiwiwi"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm",
+    "date": "2025-08-31T14:36:48.948Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1324168206306250913",
+      "tag": "oliveeeewest_57266"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-31T14:47:47.113Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Matb9aych tmovi drari li afk odkhlihom tap otaski bihom jm3i drari dyawlak next time mat3awdch ochokran",
+    "date": "2025-08-31T16:40:25.712Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1343302948171550740",
+      "tag": "santanayxx"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Matb9ach toxiqa 3la drari li makat3rfhomch Next time hdra okhra!!",
+    "date": "2025-08-31T18:41:39.577Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1386145199717355815",
+      "tag": "carolla_wiwiwi"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-31T20:34:56.295Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1122249575403630682",
+      "tag": "immvd_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-31T22:46:40.281Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1226279773534425169",
+      "tag": "mar.wan__"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-31T22:47:28.499Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "988218394203521064",
+      "tag": "1.exxp"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-08-31T22:48:54.043Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1307832172442554413",
+      "tag": "lgin_adaaam005"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "7mar tabon mok katspame fchat",
+    "date": "2025-08-31T22:59:01.883Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "n9se mn abuse mute wkha 3chrank",
+    "date": "2025-08-31T22:59:23.378Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1240057722238668883",
+      "tag": "bisco.xx"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T11:27:31.548Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1254390875501629471",
+      "tag": "dev_ila"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T15:47:19.468Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1174766767327948880",
+      "tag": "0983p"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T16:32:14.198Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1200147537206722564",
+      "tag": "delete.useerrrrrrrrr"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T19:09:10.560Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1269108251631292467",
+      "tag": "tahtouuuh"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "bdal account oradi ymsho",
+    "date": "2025-09-01T19:50:36.428Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "798873077868920832",
+      "tag": "lepetitseigneur"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T20:06:44.833Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1284163895321296959",
+      "tag": "abdlatif56"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "nex time at3awd tmove chi 1 aymchi lik role",
+    "date": "2025-09-01T20:34:21.353Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1299348402685083713",
+      "tag": "to7afa"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T20:35:55.657Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1284163895321296959",
+      "tag": "abdlatif56"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-01T20:36:05.972Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1386145199717355815",
+      "tag": "carolla_wiwiwi"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-01T23:50:35.215Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1201659194755780611",
+      "tag": "spvvngy7xxxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "no abuse power next time remove role",
+    "date": "2025-09-02T00:01:31.916Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "test",
+    "date": "2025-09-02T08:53:04.398Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1265114534029430875",
+      "tag": "xallven"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Spam Dak swirver",
+    "date": "2025-09-02T11:00:20.331Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1196039922809843814",
+      "tag": "haasany"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "bro mn a7sn ila sabk xi 7ad rejectih o thana ok bro",
+    "date": "2025-09-02T18:36:09.773Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1079614676104659034",
+      "tag": "ghostybby_"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-02T21:37:28.679Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1157746528786579476",
+      "tag": "slender._man."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-02T22:08:09.763Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1401957803245043732",
+      "tag": "rayanelx."
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-02T22:09:20.576Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1356033686662942993",
+      "tag": "slonria982"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-02T22:19:47.989Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T02:11:01.394Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1189417465516666945",
+      "tag": ".8k6"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "role at night",
+    "date": "2025-09-03T11:16:08.803Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "832316538660192307",
+      "tag": "minatoxdemon"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T16:58:39.548Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-03T18:09:48.714Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "370386736506732545",
+      "tag": "li7waaaak01"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:25:59.072Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1134572625822224495",
+      "tag": "raven_898"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:28:42.817Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1320889741020893280",
+      "tag": "ego.e"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:31:01.052Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1351137549602521149",
+      "tag": "1958_official"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:32:47.126Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1400219661441826976",
+      "tag": "mmvdm_"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:35:43.019Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1398649441493319841",
+      "tag": "vampyrahex__"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-03T20:36:30.835Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1388753049438388234",
+      "tag": "aizen052335"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "late night vibes",
+    "date": "2025-09-04T01:01:18.869Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "696410908922085407",
+      "tag": "fissure777"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-04T16:29:38.324Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1187037477521870855",
+      "tag": "rolix27"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-09-04T20:52:27.563Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1324168206306250913",
+      "tag": "oliveeeewest_57266"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "spam WEST DOX +18",
+    "date": "2025-09-04T21:00:33.368Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "3ndek 7 warn nty aktr wahda wakhda warns andwe meak akher mera atn9se toxic eala bnadm osban o reject kolche kaytchka mnk lmembers kayhrbo mn servr absbab had blan so atzedi chi haja fo9 hdche omghderich 39lk ghade ikon hada akher warn 3ndek",
+    "date": "2025-09-04T21:16:42.868Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1396300694063157299",
+      "tag": "tjicso"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "conti 2 sf mcha",
+    "date": "2025-09-04T22:27:11.526Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1116740320575623179",
+      "tag": "ismailghazi."
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "atb9a tzed tseb chi member bla maysbk wla ydilk chi haja remove role rak chada m3ana m3ana role rak katmtel servr hnina chwya",
+    "date": "2025-09-04T22:49:32.752Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1412237196420845578",
+      "tag": "yourbody."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-04T23:26:34.432Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1223777643573542937",
+      "tag": "el_l7ore_660"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-04T23:28:05.945Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "697914064499638424",
+      "tag": ".mega99"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T00:03:35.612Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1338935633833361503",
+      "tag": "walid015237"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T01:43:07.466Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1396867868351791288",
+      "tag": "kanek1iii"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Spam Server",
+    "date": "2025-09-05T10:20:01.187Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1344012193552662649",
+      "tag": "oliv._.iaaa"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-05T12:12:00.558Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "827959047827357716",
+      "tag": ".depressedcanbeinvisible"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T15:49:07.661Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1175822925761368149",
+      "tag": "king.evann"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T15:53:41.277Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "1324028585446735972"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T15:55:39.996Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "988218394203521064"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T15:56:12.423Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "988218394203521064",
+      "tag": "1.exxp"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-05T16:03:36.673Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1201659194755780611",
+      "tag": "spvvngy7xxxx"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "hbet ola an7wi lik mok",
+    "date": "2025-09-05T20:30:37.506Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1412126437103636481",
+      "tag": "napoli0368"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "spam",
+    "date": "2025-09-05T22:49:39.273Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1246756775680544850",
+      "tag": "unknown____1.1"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-06T03:00:51.923Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1116740320575623179",
+      "tag": "robin_hood2009"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "had sban binatkom ntoma fteam wahda kangolha kan3awdha deja glt tsb meak wahd f team remove role had nra derankitek mra jaya man39lch 3lik chill on9s mn mute members",
+    "date": "2025-09-06T14:30:54.822Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "802517201382277150",
+      "tag": "globdri"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-06T19:13:40.678Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1179885819780137041",
+      "tag": "_nounou1_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-06T20:15:31.219Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-06T20:50:53.447Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "802517201382277150",
+      "tag": "globdri"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-07T02:35:31.219Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1116740320575623179",
+      "tag": "robin_hood2009"
+    },
+    "by": {
+      "id": "1180334828189659232",
+      "tag": "mouhsine_1"
+    },
+    "reason": "mtb9ach t apyzo power mla limember 5rjti mn tap climatha idk fih fhamti ylh dor t7wa zbi li b9i xditi m3ana rolat",
+    "date": "2025-09-07T12:57:05.269Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "834969273197527070",
+      "tag": "docteur_."
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-07T14:57:33.294Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1355356149452378122",
+      "tag": "qn_nourel"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-09-07T17:54:00.520Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "916604000785301574",
+      "tag": "0l_x"
+    },
+    "by": {
+      "id": "1394670560448876644",
+      "tag": "sunny.c4"
+    },
+    "date": "2025-09-07T20:37:24.886Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1312847338280189962",
+      "tag": "00.jerh"
+    },
+    "by": {
+      "id": "775821118585045004",
+      "tag": "1cb."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-07T22:03:25.882Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1186000709519425702",
+      "tag": "6.8gg"
+    },
+    "by": {
+      "id": "775821118585045004",
+      "tag": "1cb."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-07T22:08:31.374Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1309620474124173436",
+      "tag": "malak092787"
+    },
+    "by": {
+      "id": "1309620474124173436",
+      "tag": "malak092787"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-08T00:59:04.468Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1408464807241187399",
+      "tag": "badr_2000"
+    },
+    "by": {
+      "id": "1309620474124173436",
+      "tag": "malak092787"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-08T11:22:15.143Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1314932389264490509",
+      "tag": "drove13"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-08T19:07:54.257Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1103055018036318339",
+      "tag": "criminal9204"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm sra9 zit",
+    "date": "2025-09-08T19:24:08.752Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "852929192454258719",
+      "tag": "into_yourarms"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-09T12:48:00.618Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "last",
+    "user": {
+      "id": "1343302948171550740",
+      "tag": "santanayxx"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "sat katarti 3la rask btoxic jma3 rask chwiya!!",
+    "date": "2025-09-09T12:51:32.749Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1308850420424245313",
+      "tag": "salman044648"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm ds",
+    "date": "2025-09-09T12:52:25.468Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1308850420424245313",
+      "tag": "salman044648"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-09T12:56:46.657Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "668983652524359701",
+      "tag": "a.mjidou"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-09T14:32:22.952Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unban",
+    "user": {
+      "id": "902258786046185522"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-09T22:03:55.116Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1230646323791794198",
+      "tag": "jinwo.05"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "spam dm md1",
+    "date": "2025-09-10T01:00:55.157Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1103055018036318339",
+      "tag": "criminal9204"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-09-10T10:30:05.091Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1402394373433327736",
+      "tag": "imrvneeee"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-10T13:24:35.952Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "769138291471286303",
+      "tag": ".user333_"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-10T22:21:27.145Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1367419862531444778",
+      "tag": "portland0797"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-11T01:14:29.176Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1367419862531444778",
+      "tag": "portland0797"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-09-11T01:14:46.522Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "886607066804916294",
+      "tag": "_sal_i"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-11T01:15:35.762Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "886607066804916294",
+      "tag": "_sal_i"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "hbti neal waldik",
+    "date": "2025-09-11T01:24:01.046Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1090996090351915088",
+      "tag": "_callmealexa"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-11T13:39:43.399Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1378816882567680154",
+      "tag": "ar_z65"
+    },
+    "by": {
+      "id": "775821118585045004",
+      "tag": "1cb."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-11T14:11:59.967Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "900648054099673108",
+      "tag": "tinghir86"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Bot Security",
+    "date": "2025-09-11T15:19:06.219Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1175822925761368149",
+      "tag": "king.evann"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Bot Security",
+    "date": "2025-09-11T15:20:03.501Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1086605374829895722",
+      "tag": "rvn_ae"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-11T17:05:30.733Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "803266646101852180",
+      "tag": "bommboclaat"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-11T21:57:50.843Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "775821118585045004",
+      "tag": "1cb."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-11T22:11:36.009Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "529497143334010891",
+      "tag": "1jp8"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-12T02:18:36.094Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "warn",
+    "type": "first",
+    "user": {
+      "id": "1409075806457561130",
+      "tag": "rika_777x"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "sat jma3 rask MN Dak tbrhich rah ez njabdak ila shab lik hrbti !! Next time hadra okhra !!",
+    "date": "2025-09-12T11:29:37.320Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1189659628523503677",
+      "tag": "revox444"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "spam",
+    "date": "2025-09-12T11:54:52.716Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-12T19:31:16.596Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "802517201382277150",
+      "tag": "globdri"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-12T19:36:19.947Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1229211129968984167",
+      "tag": "suji_sx0"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-12T19:44:37.886Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1374084738687434956",
+      "tag": "konan902710"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-12T19:47:24.586Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1095046349025706146",
+      "tag": "abderrahman_089"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "date": "2025-09-12T21:16:50.451Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "668983652524359701",
+      "tag": "a.mjidou"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-12T21:54:23.464Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1165671418701295736",
+      "tag": "0jdf"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-12T23:07:28.980Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1086605374829895722",
+      "tag": "rvn_ae"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "date": "2025-09-13T01:27:35.451Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1171426775172128849",
+      "tag": "vip_n02x"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-13T11:13:36.835Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1243962701764366336",
+      "tag": "ayvoooub"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "kaysalam 3lik kaito ogol ldik owner dyalkom raki Ra kalba katspami f bnadam o kaykol 3lik kalba",
+    "date": "2025-09-13T11:14:45.058Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "755726653992337439",
+      "tag": "escobar_x26"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-13T11:15:44.389Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1272857118738878529",
+      "tag": "stormella_officiel"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "kaysalam 3lik kaito raki Ra kliba bchahadat ljami3 katspami f bnadam okaygolak ala alkalba mandkhalch mdlola",
+    "date": "2025-09-13T11:16:52.551Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1086605374829895722",
+      "tag": "rvn_ae"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "rolat f Dak swirver",
+    "date": "2025-09-13T11:20:55.958Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "690322667303338083",
+      "tag": "heartlinelove"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "rolat f Dak swirver",
+    "date": "2025-09-13T11:22:08.223Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "ban",
+    "user": {
+      "id": "1171426775172128849",
+      "tag": "vip_n02x"
+    },
+    "by": {
+      "id": "1267825840083963955",
+      "tag": "chevkyyy77"
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-13T13:15:06.212Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "787391043313991680",
+      "tag": "wenky_1"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-13T14:16:42.501Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "787391043313991680",
+      "tag": "wenky_1"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-09-13T15:36:46.908Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "unjail",
+    "user": {
+      "id": "1399078375007719474",
+      "tag": "viagra6"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "date": "2025-09-13T15:37:51.419Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1287409580854345819",
+      "tag": "star67_90210"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Aucune raison spécifiée.",
+    "date": "2025-09-13T23:55:45.340Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1116331098801180722",
+      "tag": "itsysx.v1"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "role f Outside",
+    "date": "2025-09-14T13:42:45.698Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "769138291471286303",
+      "tag": ".user333_"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "role f outside",
+    "date": "2025-09-14T13:45:52.922Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1141906509513637979",
+      "tag": "zzf0"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Role f one day",
+    "date": "2025-09-14T13:49:10.090Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1305134948272967683",
+      "tag": "amino1king"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "Role Verificator f one day",
+    "date": "2025-09-14T13:54:20.594Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1345432538755240017",
+      "tag": "x.silent_xxxxx"
+    },
+    "by": {
+      "id": "1410294190377668679",
+      "tag": "kaitoo21."
+    },
+    "reason": "role f one day",
+    "date": "2025-09-14T13:55:02.653Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  },
+  {
+    "action": "jail",
+    "type": "manual",
+    "user": {
+      "id": "1330286330613334069",
+      "tag": "uqw__00"
+    },
+    "by": {
+      "id": "586771128882692096",
+      "tag": "sala777"
+    },
+    "reason": "one day",
+    "date": "2025-09-14T17:40:30.748Z",
+    "guild": {
+      "id": "1366177830551162985",
+      "name": "Late Night Community"
+    }
+  }
+]

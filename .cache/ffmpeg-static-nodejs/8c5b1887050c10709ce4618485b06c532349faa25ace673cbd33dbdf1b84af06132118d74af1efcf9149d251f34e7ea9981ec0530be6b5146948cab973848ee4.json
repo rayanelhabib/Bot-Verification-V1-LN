@@ -1,0 +1,30 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "connection": "close",
+    "content-length": "28928723",
+    "last-modified": "Fri, 07 Jul 2023 14:24:55 GMT",
+    "etag": "\"0x8DB7EF5EFB4A732\"",
+    "server": "Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0",
+    "x-ms-request-id": "2a5e89d1-301e-001e-18e5-f00d8d000000",
+    "x-ms-version": "2018-11-09",
+    "x-ms-creation-time": "Fri, 07 Jul 2023 14:24:55 GMT",
+    "x-ms-blob-content-md5": "LdbghCEYXGXTh4+b8mjYGw==",
+    "x-ms-lease-status": "unlocked",
+    "x-ms-lease-state": "available",
+    "x-ms-blob-type": "BlockBlob",
+    "x-ms-server-encrypted": "true",
+    "via": "1.1 varnish, 1.1 varnish",
+    "accept-ranges": "bytes",
+    "age": "2404",
+    "date": "Sat, 02 Aug 2025 23:21:38 GMT",
+    "x-served-by": "cache-iad-kcgs7200131-IAD, cache-hel1410024-HEL",
+    "x-cache": "HIT, HIT",
+    "x-cache-hits": "6, 0",
+    "x-timer": "S1754176898.376744,VS0,VE0",
+    "content-disposition": "attachment; filename=ffmpeg-linux-x64.gz",
+    "content-type": "application/octet-stream"
+  },
+  "requestHeaders": {},
+  "requestTimestamp": 1754176898356
+}

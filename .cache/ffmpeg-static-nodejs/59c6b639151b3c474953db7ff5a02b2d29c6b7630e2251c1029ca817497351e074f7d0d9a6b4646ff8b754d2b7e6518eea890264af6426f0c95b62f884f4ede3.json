@@ -1,0 +1,30 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "connection": "close",
+    "content-length": "2230",
+    "last-modified": "Fri, 07 Jul 2023 14:25:40 GMT",
+    "etag": "\"0x8DB7EF60A53BD9D\"",
+    "server": "Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0",
+    "x-ms-request-id": "7772b9c1-d01e-0029-34e5-f0df21000000",
+    "x-ms-version": "2018-11-09",
+    "x-ms-creation-time": "Fri, 07 Jul 2023 14:25:40 GMT",
+    "x-ms-blob-content-md5": "Zuzf7JYp+zVj1tb9TJ967A==",
+    "x-ms-lease-status": "unlocked",
+    "x-ms-lease-state": "available",
+    "x-ms-blob-type": "BlockBlob",
+    "x-ms-server-encrypted": "true",
+    "via": "1.1 varnish, 1.1 varnish",
+    "accept-ranges": "bytes",
+    "age": "5770",
+    "date": "Sat, 02 Aug 2025 23:21:49 GMT",
+    "x-served-by": "cache-iad-kcgs7200082-IAD, cache-hel1410024-HEL",
+    "x-cache": "HIT, HIT",
+    "x-cache-hits": "32, 0",
+    "x-timer": "S1754176909.255585,VS0,VE1",
+    "content-disposition": "attachment; filename=linux-x64.README",
+    "content-type": "application/octet-stream"
+  },
+  "requestHeaders": {},
+  "requestTimestamp": 1754176909155
+}
